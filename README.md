@@ -17,7 +17,7 @@
 
 
 <div align="center">
-<img src="https://plus.unsplash.com/premium_photo-1661503280224-a86d7ad2a574?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="자신을 나타낼 수 있는 사진" style="zoom:76%;" align:"center" />
+<img src="https://plus.unsplash.com/premium_photo-1661503280224-a86d7ad2a574?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="자신을 나타낼 수 있는 사진" style="zoom:50%;" align:"center" />
 </div>
 <br>
 
@@ -44,3 +44,6 @@
     + 이 아이디어는 _다이어리 기능과 유사하게 발전할 수 있다._
 
 
+<div align="center">
+<img src="https://images.unsplash.com/photo-1504595403659-9088ce801e29?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fCVFQiVCMCU5OCVFQiVBMCVBNCVFQiU4RiU5OSVFQiVBQyVCQ3xlbnwwfHwwfHx8MA%3D%3D" alt="자신을 나타낼 수 있는 사진" style="zoom:50%;" align:"center" />
+</div>
